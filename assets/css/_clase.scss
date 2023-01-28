@@ -1,5 +1,6 @@
 
 .clase__texto{
+
    font-size: xx-large;
    font-family: 'Courier New', Courier, monospace;
     
@@ -8,6 +9,7 @@
    
 .clase__centrar{
     text-align: center;
+    
     }
 
 .claseh2{
@@ -27,6 +29,10 @@
     padding-left: 10%;
     padding-right: 10%;
 
+}
+.texto_tarjeta{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -102,3 +108,12 @@ letter-spacing: 10pt;
     @extend .card__titulo;
     background-color: white;
 }
+.tuclase{
+text-align: center; 
+font-family: Comic Sans MS; 
+font-weight:bold; 
+font-size: 60px; 
+color: #EBD758; 
+text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 
+}
+
